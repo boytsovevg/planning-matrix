@@ -1,0 +1,21 @@
+td {
+    border: 1px solid;
+}
+
+.title {
+    font-weight: bold;
+    text-align: center;
+}
+
+.planning-item {
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 300px;
+}
+
+textarea {
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+}
